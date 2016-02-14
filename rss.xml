@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[simontravelsbeyond]]></title>
         <description><![CDATA[simontravelsbeyond]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simontravelsbeyond/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 11:41:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 11:49:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simontravelsbeyond/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b685390-ca30-4589-9ecd-55f880240538.jpg">]]></description>
+            <link>https://thegrid.ai/simontravelsbeyond/5ace3578-1add-4437-8fd1-22963e0adefc/index.html</link>
+            <guid isPermaLink="false">5ace3578-1add-4437-8fd1-22963e0adefc</guid>
+            <pubDate>Sun, 14 Feb 2016 11:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d01ae26-97c6-42a8-907b-7df9f1ac9fcf.jpg">]]></description>
-            <link>undefinedf1766be7-aa77-4c09-b679-79f077c38731/index.html</link>
+            <link>https://thegrid.ai/simontravelsbeyond/f1766be7-aa77-4c09-b679-79f077c38731/index.html</link>
             <guid isPermaLink="false">f1766be7-aa77-4c09-b679-79f077c38731</guid>
             <pubDate>Sun, 14 Feb 2016 11:41:09 GMT</pubDate>
         </item>
